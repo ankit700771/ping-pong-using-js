@@ -10,9 +10,11 @@
 }
 
 #handle {
-  height: 80px;
+  height: 100px;
   width: 20px;
+  margin-left: 3px;
   background-color: blue;
+  border-radius: 20px;
   position: absolute;
 }
 
