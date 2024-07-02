@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+#table {
+  border: 2px solid black;
+  width: 700px;
+  height: 400px;
+  position: relative;
+}
+
+#handle {
+  height: 80px;
+  width: 20px;
+  background-color: blue;
+  position: absolute;
+}
+
+#ball {
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+  background-color: red;
+  position: absolute;
+}
